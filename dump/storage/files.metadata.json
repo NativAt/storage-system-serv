@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"storage.files"},{"v":2,"unique":true,"key":{"privateName":1},"name":"privateName_1","ns":"storage.files","background":true}],"uuid":"ee3081ec88c0431a887fb985bd2505bf"}
