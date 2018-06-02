@@ -25,7 +25,4 @@ mongoDB connection string is located in `config.js`
 
 
 ## Import Postman collection
-
-```
 postman collection can be imported from postman folder
-```
